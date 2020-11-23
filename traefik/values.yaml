@@ -165,9 +165,7 @@ logs:
           # Authorization: drop
           # Content-Type: keep
 
-globalArguments:
-  - "--global.checknewversion"
-  - "--global.sendanonymoususage"
+globalArguments: []
 
 #
 # Configure Traefik static configuration
